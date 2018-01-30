@@ -7,7 +7,7 @@
 import java.util.*;
 /**
  *
- * @author olivia
+ * @author MaiteChirivella
  */
 public class JA06AplicacionZoologico {
 

@@ -16,6 +16,8 @@ public class Zoologico {
         this.v=new Vector();
     }
     public void imprimirZoologico(){
+        System.out.println("LISTADO ANIMALES DEL ZOO");
+        System.out.println("************************");
         for (int i = 0; i < this.v.size(); i++) {
             ((Animal) this.v.get(i)).imprimirAnimal();
         }
